@@ -1,0 +1,6 @@
+{
+  "name": "SetuScreen",
+  "description": "Lightweight peer-to-peer WebRTC screen sharing with one-time 6-word pairing codes, SAS fingerprint verification, granular permissions, and tamper-evident local audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
